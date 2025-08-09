@@ -1,6 +1,6 @@
 # PESU Slides Downloader (CLI)
 
-A Windows-friendly CLI to log into PESU Academy, select a semester, pick a course and unit, list classes, and download Slides for selected lessons to a folder you choose. (Its painful to download anything for pesuacadamy.com so i made this)
+A Windows-friendly CLI to log into PESU Academy, select a semester, pick a course and unit, list classes, and download Slides for selected lessons to a folder you choose. (Its painful to download anything from pesuacadamy.com so i made this)
 
 ## What it does
 - Logs in using your PESU Academy credentials (prompted at runtime)
